@@ -1,4 +1,4 @@
-# Cronometro
+# Cronômetro
 
 https://www.youtube.com/watch?v=SbST27OWpmo&t=17s
 
